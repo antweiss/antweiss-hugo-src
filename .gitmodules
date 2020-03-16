@@ -3,4 +3,7 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "themes/cocoa-eh"]
 	path = themes/cocoa-eh
-	url = https://github.com/mtn/cocoa-eh-hugo-theme.git
+	url = git@github.com:antweiss/cocoa-eh-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/antweiss/antweiss.github.io.git

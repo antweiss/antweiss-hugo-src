@@ -7,9 +7,11 @@ title = "About"
 
 # Welcome stranger!
 
-I'm **Ant Weiss** - an entrepreneur,  software delivery consultant, musician, public speaker, writer and instructor.
+I'm **Ant Weiss** - entrepreneur,  software delivery consultant, musician, public speaker, writer and instructor.
 
-All this in no particular order and in parallel to being a male human being blessed with the best wife and kids in the world!
+All this in no particular order and in parallel to being a male human being blessed to have a wonderful family and friends! Yes, we all get on each other's nerves, but that's what makes it fun!
+
+{{< figure class="special-img-class" src="https://pbs.twimg.com/profile_images/1176722571888345089/3RNWCvAa_200x200.jpg" title="Me">}}
 
 I also like to think of myself as a *futurist*, but aren't we all?
 
@@ -26,12 +28,10 @@ I write on a wide range of topics including but not limited to:
 * software delivery methodologies
 * devops
 
-If you like something you see here - drop me a line at ant.weiss@gmail.com.
+If you like something you see here - drop me a line at anton@otomato.io
 
-Or find me on twitter: [antweiss] (http://twitter.com/antweiss)
+Or find me on twitter: [antweiss](http://twitter.com/antweiss)
 
-And this is me on [about.me] (https://about.me/antweiss)
-
-<img src="http://o.aolcdn.com/dims-global/dims/ABOUTME/5/435/290/100/http://d3mod6n032mdiz.cloudfront.net/thumb2/a/n/t/antweiss/antweiss-840x560.jpg" class="profile">
+And this is me on [about.me](https://about.me/antweiss)
 
 <br />

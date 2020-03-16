@@ -2,13 +2,12 @@ baseurl = "https://antweiss.com/"
 languageCode = "en-us"
 title = "one man's singularity"
 
-#disqusShortname = "antweiss"
-#disqus_url = http://antweiss.disqus.com
+disqusShortname = "antweiss"
+disqus_url = "http://antweiss.disqus.com"
 pygmentsstyle = "lovelace"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
-fixed = ":title/"
 blog = "blog/:slug/"
 
 [params]
@@ -17,22 +16,24 @@ dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 author = "Ant Weiss"
 description = "One Man's Singularity"
 email = "anton@otomato.io" # TODO:
-faviconfile = "img/otomato.ico"
-gitHub = "//github.com/antweiss" # TODO:
+faviconfile = "img/antweiss.png"
+gitHub = "antweiss" # TODO:
 lang = "en"
-linkedIn = "//linkedin.com/in/antonweiss" # TODO:
-twitter = "//twitter.com/antweiss" # TODO:
+linkedIn = "antonweiss" # TODO:
+twitter = "antweiss" # TODO:
 logofile = "https://avatars2.githubusercontent.com/u/3274734?s=40&v=4"
 usesmallsummarycard = true
 posts_navigation = true
 highlightjs = true
-#progressively = true
+progressively = true
 share = true
+latestpostcount = 3
+social_banner = "img/horns.png"
 
-[params.utteranc]
-enable = true
-repo = "mtn/cocoa-eh-hugo-theme"
-issueTerm = "title"
+#[params.utteranc]
+#enable = true
+#repo = "antweiss/antweiss.github.io"
+#issueTerm = "title"
 
 [params.colors]
 identifier = "#527fc1f"
@@ -40,6 +41,7 @@ identifier_dark = "#1a3152"
 trivial = "#6a7a8b"
 foreground = "#181d2a"
 background = "#f9f9f9"
+#background = "#323131"
 background_dark = "#282a36"
 code = "#87a5d2"
 type = "#97d28b"

@@ -1,11 +1,13 @@
+
 baseurl = "https://antweiss.com/"
 languageCode = "en-us"
 title = "one man's singularity"
-
 disqusShortname = "antweiss"
 disqus_url = "http://antweiss.disqus.com"
 pygmentsstyle = "lovelace"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+googleAnalytics = "UA-161003981-1"
 
 [permalinks]
 blog = "blog/:slug/"
@@ -27,7 +29,7 @@ posts_navigation = true
 highlightjs = true
 progressively = true
 share = true
-latestpostcount = 3
+latestpostcount = 5
 social_banner = "img/horns.png"
 
 #[params.utteranc]
@@ -36,13 +38,16 @@ social_banner = "img/horns.png"
 #issueTerm = "title"
 
 [params.colors]
-identifier = "#527fc1f"
-identifier_dark = "#1a3152"
-trivial = "#6a7a8b"
-foreground = "#181d2a"
-background = "#f9f9f9"
-#background = "#323131"
-background_dark = "#282a36"
+identifier = "#FFFFFF"
+identifier_dark = "#CB57E0"
+visited = "#CB57E0"
+trivial = "#FFFFFF"
+#trivial = "#6a7a8b"
+foreground = "#FFFFFF"
+#foreground = "#181d2a"
+#background = "#f9f9f9"
+background = "#323131"
+background_dark = "#323131"
 code = "#87a5d2"
 type = "#97d28b"
 special = "#ffcb8d"

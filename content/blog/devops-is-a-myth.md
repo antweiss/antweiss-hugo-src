@@ -28,7 +28,8 @@ But I'm not saying you should read the handbook if you want to know how to impro
 
 Because the main realization that you, as a smart reader, will arrive at  - is just that there is no such thing as DevOps. **DevOps is a myth**.
 
-{{< figure class="special-img-class" src="/img/dohb.png" title="DevOps Handbook">}}
+
+![Devops Handbook](/img/dohb.jpg)
 
 ### So What's The Story?
 

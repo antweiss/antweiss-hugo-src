@@ -30,7 +30,7 @@ highlightjs = true
 progressively = true
 share = true
 latestpostcount = 5
-social_banner = "img/horns.png"
+social_banner = "img/horns-bw.png"
 
 #[params.utteranc]
 #enable = true

@@ -1,5 +1,5 @@
 ---
-title: "Devops Shorts 2 - Baruch Sadogursky"
+title: "Devops Shorts 002 - Baruch Sadogursky"
 date: 2020-04-24T16:03:07+03:00
 draft: false
 ---

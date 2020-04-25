@@ -23,6 +23,8 @@ Listen to the show to learn:
 - The difference between the horizontal and vertical domains of software
 - Why operations are a key differentiator
 
+The full [transcript of the interview is available on Glasnostic Blog](https://glasnostic.com/blog/devops-shorts-podcast-episode-tobias-kunze)
+
 And on a personal note  - I'm so happy I started this! 
 I'm learning as I go, loving every moment of it and I believe in the end I'll be a great host.
 

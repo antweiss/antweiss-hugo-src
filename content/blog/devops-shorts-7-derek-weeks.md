@@ -4,7 +4,7 @@ date: 2020-05-27T19:31:35+03:00
 draft: false
 ---
 
-# Derek Weeks - Exploring the Team Topologies 
+# Derek Weeks - It's All in The Feedback Loops! 
 ### DevOps Shorts E007
 
 {{< figure src="/img/derekweeks.jpg" >}}

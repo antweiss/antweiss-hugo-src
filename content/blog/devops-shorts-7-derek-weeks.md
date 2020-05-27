@@ -37,7 +37,7 @@ The episode is live on:
 
 - [Anchor.fm](https://anchor.fm/devops-shorts/episodes/Derek-Weeks---Its-All-in-the-Feedback-Loops-eel4ao)
 
-- [Spotify](https://open.spotify.com/show/3cCjBXnbp2JMl5Suk8NOz0)
+- [Spotify](https://open.spotify.com/episode/0CDej55zaiuvTSsUN7UjbG)
 
 - [Youtube](https://youtu.be/vKAo7ElnZfM) - also embedded at the bottom of this post.
 

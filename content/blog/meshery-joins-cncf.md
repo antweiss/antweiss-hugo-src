@@ -12,7 +12,7 @@ draft: false
 ## Getting into the Mesh
 
 About a year and a half ago I got interested in service mesh technology. A customer needed some advanced routing capabilities and we started looking at Envoy and Istio.
-Then - invitations to talk about Istio at meetups and conferences started flowing in. That's when I got excited about progressive delivery capabilities that service meshes enable. I even wrote a Kubernetes Istio canary controller - BirdWatch.
+Then - invitations to talk about Istio at meetups and conferences started flowing in. That's when I got excited about progressive delivery capabilities that service meshes enable. I even wrote a Kubernetes Istio canary controller - [BirdWatch](https://github.com/otomato-gh/birdwatch-otomator).
 
 ## Finding Meshery
 

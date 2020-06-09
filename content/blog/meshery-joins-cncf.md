@@ -6,7 +6,7 @@ draft: false
 
 # We're on The Cloud Native Landscape!
 
-*This is a story about a growing together as a community and building a project that matters.*
+*This is a story about growing together as a community and building a project that matters.*
 {{< figure src="https://raw.githubusercontent.com/layer5io/layer5/master/assets/images/meshery/meshery-logo-tag-light-text-side.png" >}}
 
 ## Getting into the Mesh

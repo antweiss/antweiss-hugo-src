@@ -7,7 +7,7 @@ title = "About"
 
 # Welcome stranger!
 
-I'm **Ant Weiss** - entrepreneur,  software delivery consultant, musician, public speaker, writer and instructor.
+I'm **Ant Weiss** - an entrepreneur,  software delivery consultant, musician, public speaker, writer and instructor.
 
 All this in no particular order and in parallel to being a male human being blessed to have a wonderful family and friends! Yes, we all get on each other's nerves, but that's what makes it fun!
 

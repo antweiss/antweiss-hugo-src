@@ -31,7 +31,7 @@ The episode is live on:
 
 - [Anchor.fm](https://anchor.fm/devops-shorts/episodes/Adi-Shacham-Shavit---Quality-is-Still-Too-Hard-efhvh4)
 
-- [Spotify](https://open.spotify.com/show/3cCjBXnbp2JMl5Suk8NOz0)
+- [Spotify](https://open.spotify.com/episode/2M5py6U0HlQkhISoWDyG7d)
 
 - [Youtube](https://youtu.be/dc4H6pXycPI) - also embedded at the bottom of this post.
 

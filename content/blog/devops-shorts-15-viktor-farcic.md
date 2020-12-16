@@ -45,6 +45,6 @@ _This episode is brought to you by [Canarian](https://canarian.io) - the innovat
 
 Sign up for our beta on the [website](https://canarian.io)
 
-To watch DevOps Shorts 014:
+To watch DevOps Shorts 015:
 
 {{< youtube ADNJMmwaeiA >}}

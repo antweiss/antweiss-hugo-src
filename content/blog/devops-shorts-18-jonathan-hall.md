@@ -13,6 +13,8 @@ Johnathan Hall (aka TinyDevOps) is a DevOps coach and consultant based in Nether
 He has almost 3 decades of experience in the IT industry out of which 2 decades were spent in leadership roles. 
 Jonathan is focused on **helping small teams do amazing DevOps**.
 
+Find him on [twitter](https://twitter.com/TinyDevOps) and on his [site](https://jhall.io/)
+
 Listen to the episode to learn:
 
 - How love of IT is still about making tech do our bidding.

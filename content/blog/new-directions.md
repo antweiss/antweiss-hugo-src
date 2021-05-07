@@ -8,14 +8,23 @@ draft: false
 
 I haven't written anything on my personal blog for a while.
 
+Since the start of pandemic it was mostly DevOps Shorts announcements. 
 
-Last year has been very busy. Once the first pandemic shock  has passed - the whole industry quickly picked up a hectic pace. 
+But lately I feel like I'm changing. Going through another life-period crisis. 
 
-We at Otomato have been busy building infrastructure, teaching cloud native tech, coaching DevOps and SRE teams. We are now 4 people and potentially growing.
+On a very positive note - I did some bio-hacking of my own - changed my diet, lost about 6 kilos of body fat and now exercise regularly. 
+
+All this  gives me renewed energy with which I feel like it's finally time to change my business reailty.
+
+Last year was very busy. Once the first pandemic shock  has passed - the whole industry quickly picked up a hectic pace. 
+
+# Looking back on 2020
+
+We at Otomato have been occupied building infrastructure, teaching cloud native tech, coaching DevOps and SRE teams. We are now 4 people and potentially growing.
 
 During that time we also decided to launch a new enterprise with a long time friend and collaborator - Oleg. (Yes - I'm talking about [Canarian](https://canarian.io).) 
 
-We had some great ideas about cloud-native CD and where it is going. The ideas made some waves, so we tried to raise funds and make them reality. 
+We had (and still have) some great ideas about cloud-native CD and where it is going. The ideas made some waves, so we tried to raise funds and make them reality. 
 
 We even made it to this [overview of industry trends](https://tylerjewell.substack.com/p/2021-developer-trends) by Tyler Jewell.
 

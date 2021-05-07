@@ -41,7 +41,7 @@ Adaptive configuration, progressive delivery, smart policy management, semantic 
 
 You know what? 
 
-I'll do another blog posts where I review all of the trends we're seeing and point out the gaps we intend to close. And yes - there are plenty of gaps!
+I'll do another blog post soon where I review all of the trends we're seeing and point out the gaps we intend to close. And yes - there are plenty of gaps!
 
 But right now it's buzzing and tingling and there's a lot of this wonderful but hard to bear excitement of going through a transition.
 

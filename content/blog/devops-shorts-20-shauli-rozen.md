@@ -41,7 +41,7 @@ The episode is live on:
 
 - [Anchor.fm](https://anchor.fm/devops-shorts/episodes/Shauli-Rozen---The-Next-Level-of-DevSecOps-e1d2sa8)
 
-- [Spotify](https://open.spotify.com/episode/0gyu90mEQBrIDR7vUuq7iS)
+- [Spotify](https://open.spotify.com/episode/6AXwWiTRVAY766S7QQT2ro)
 
 - [Youtube](https://youtu.be/qAJmv2_RkVY) - also embedded at the bottom of this post.
 

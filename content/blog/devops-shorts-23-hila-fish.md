@@ -11,7 +11,7 @@ draft: false
 {{< figure src="https://assets.website-files.com/6205294295b40674a1856690/626a655ed3b5273d985037d2_Hila_Fish.png" >}}
 
 
-Hila Fish is a Senior DevOps Engineer at Wix, a singer, and DevOpsDaysTLV co-organizer. She's also an acclaimed international speaker on the topics of both DevOps culture and technology. 
+[Hila Fish](https://www.linkedin.com/in/hila-fish/) is a Senior DevOps Engineer at Wix, a singer, and DevOpsDaysTLV co-organizer. She's also an acclaimed international speaker on the topics of both DevOps culture and technology. 
 
 
 Listen to the episode to learn:

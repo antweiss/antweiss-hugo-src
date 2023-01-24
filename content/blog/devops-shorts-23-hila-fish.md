@@ -16,7 +16,7 @@ draft: false
 
 Listen to the episode to learn:
 
-- What's more important - pople, business or computers?
+- What's more important - people, business or computers?
 
 - Why you should think twice before updating a Jira server.
 

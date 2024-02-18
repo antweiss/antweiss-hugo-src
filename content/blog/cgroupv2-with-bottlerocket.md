@@ -70,7 +70,7 @@ ssh -i mykey ec2-user@$NODE_IP
 
 We get greeted with the following screen:
 
-![](/img/Bottlerocket-ssh.png)
+![](/img/bottlerocket-ssh.png)
 
 As this says - we can get admin access to the Bottlerocket filesystem by running `sudo sheltie`. So let's do that!
 

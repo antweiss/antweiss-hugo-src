@@ -33,7 +33,7 @@ The episode is live on:
 
 - [Spotify](https://open.spotify.com/episode/0j7hELLMRnNuwrmdK73N0e?si=ig4ZPqk6QsKkUCf9na_30g)
 
-- [Youtube](https://youtu.be/tsIyf5SDMbMg) - also embedded at the bottom of this post.
+- [Youtube](https://youtu.be/tsIyf5SDMbM) - also embedded at the bottom of this post.
 
 Watch out for new episodes!
 

@@ -91,7 +91,7 @@ Yup! This is cgroupv2! Were this `cgroupv1` the output would've been `tmpfs`.
 
 ## Let's Deploy a Pod
 
-Ok, now let's deploy a pod to our node. We'll do that by creating a deployment based on the following `yaml` spec. This deploys [antweiss/busyhttp], that I forked from [jpetazzo/busyhttp] and add memory load and release endpoints to.
+Ok, now let's deploy a pod to our node. We'll do that by creating a deployment based on the following `yaml` spec. This deploys [antweiss/busyhttp](https://github.com/antweiss/busyhttp), that I forked from [jpetazzo/busyhttp](https://github.com/jpetazzo/busyhttp) and added memory load and release endpoints to.
 You'll notice that the pod runs a container with Guaranteed QoS - i.e memory and CPU limits are equal to requests:
 
 ```yaml

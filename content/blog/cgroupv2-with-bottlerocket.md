@@ -4,7 +4,7 @@ date: 2023-11-12T14:16:55+02:00
 draft: false
 ---
 
-# AWS Bottlerocket and Cgroups V2
+# Exploring cgroups v2 and MemoryQoS With EKS and Bottlerocket
 ![Blame Midjourney for this image](https://raw.githubusercontent.com/antweiss/botllerocket-cgroupv2/main/antweiss_bottlerocket_with_memory_d4aa3a97-258b-4267-bdd7-94660146c5d1.webp)
 Bottlerocket is a Linux-based operating system optimized for hosting containers. It was originally developed at AWS specifically for runnning secure and performant Kubernetes nodes. It's minimal, secure and supports atomic updates.
 

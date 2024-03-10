@@ -11,7 +11,7 @@ draft: false
 
 I only recently had the honour to host [Abby Bangser](https://www.linkedin.com/in/abbybangser/) at a webinar on continuous optimization practices as applied to the [Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) and now we finally got to record a DevOps Shorts episode too!
 
-Abby is a Principal Engineer at Syntasso building [Kratix] and is also the Platforms Working Group Lead at CNCF. So she's definitely the person I wanted to talk to about platforms.
+Abby is a Principal Engineer at Syntasso building [Kratix](https://www.kratix.io/) and is also the Platforms Working Group Lead at CNCF. So she's definitely the person I wanted to talk to about platforms.
 
 
 Listen to the episode to learn:

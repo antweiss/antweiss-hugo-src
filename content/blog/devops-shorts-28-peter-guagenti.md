@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# Peter Guagenti - The AI is an Iron Man Suite for the Mind
+# Peter Guagenti - The AI is an Iron Man Suit for the Mind
 
 {{< figure src="https://councils.forbes.com/profile/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fcco-avatars%2F49668400-f321-45cf-9e7b-7b82383a3dd4.png&w=256&q=75" >}}
 

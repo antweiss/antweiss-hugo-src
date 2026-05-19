@@ -1,9 +1,15 @@
 baseurl = "https://antweiss.com/"
 languageCode = "en-us"
-title = "Ant Weiss — Coaching engineering leaders through AI transformation"
+title = "Ant Weiss"
+theme = "cocoa-eh"
 
 pygmentsstyle = "lovelace"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [permalinks]
 fixed = ":title/"
@@ -13,7 +19,7 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 author = "Ant Weiss"
-description = "Executive coaching for IT managers and engineering leaders navigating AI transformation."
+description = "Coaching engineering leaders through AI transformation"
 email = "anton@otomato.io"
 faviconfile = "img/otomato.ico"
 gitHub = "//github.com/antweiss"
@@ -25,6 +31,31 @@ usesmallsummarycard = true
 posts_navigation = true
 highlightjs = true
 share = true
+
+[[menu.main]]
+  name = "Coaching"
+  url = "/coaching/"
+  weight = 1
+
+[[menu.main]]
+  name = "Signals"
+  url = "/signals/"
+  weight = 2
+
+[[menu.main]]
+  name = "Insights"
+  url = "/insights/"
+  weight = 3
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 4
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
 
 [params.utteranc]
 enable = true

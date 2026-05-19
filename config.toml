@@ -1,9 +1,7 @@
 baseurl = "https://antweiss.com/"
 languageCode = "en-us"
-title = "one man's singularity"
+title = "Ant Weiss — Coaching engineering leaders through AI transformation"
 
-#disqusShortname = "antweiss"
-#disqus_url = http://antweiss.disqus.com
 pygmentsstyle = "lovelace"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -15,18 +13,17 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 author = "Ant Weiss"
-description = "One Man's Singularity"
-email = "anton@otomato.io" # TODO:
+description = "Executive coaching for IT managers and engineering leaders navigating AI transformation."
+email = "anton@otomato.io"
 faviconfile = "img/otomato.ico"
-gitHub = "//github.com/antweiss" # TODO:
+gitHub = "//github.com/antweiss"
 lang = "en"
-linkedIn = "//linkedin.com/in/antonweiss" # TODO:
-twitter = "//twitter.com/antweiss" # TODO:
+linkedIn = "//linkedin.com/in/antonweiss"
+twitter = "//twitter.com/antweiss"
 logofile = "https://avatars2.githubusercontent.com/u/3274734?s=40&v=4"
 usesmallsummarycard = true
 posts_navigation = true
 highlightjs = true
-#progressively = true
 share = true
 
 [params.utteranc]

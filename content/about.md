@@ -1,37 +1,36 @@
 +++
-date = "2016-09-26T18:11:06+03:00"
+date = "2026-05-17T18:00:00+03:00"
 draft = false
 title = "About"
-
 +++
 
-# Welcome stranger!
+# About Ant Weiss
 
-I'm **Ant Weiss** - an entrepreneur,  software delivery consultant, musician, public speaker, writer and instructor.
+I coach engineering leaders through cultural inflection points — the moments where the tools change faster than the team can update its norms around them.
 
-All this in no particular order and in parallel to being a male human being blessed with the best wife and kids in the world!
+Right now, that mostly means AI. The leaders I work with are running rollouts that look fine on the dashboard but feel quieter than they should in 1:1s. By the time the senior engineers start handing in notice, the metrics still look good. My work is helping the manager see what their team has stopped telling them.
 
-I also like to think of myself as a *futurist*, but aren't we all?
+The thesis is short: **AI didn't break your engineering org. It exposed the leadership debt you've been carrying since before AI existed. The work isn't AI adoption. The work is becoming the leader your team needs to navigate it.**
 
-I write on a wide range of topics including but not limited to:
+## Background
 
-* creativity
-* entrepreneurship
-* technology
-* cool hacks
-* music
-* marketing
-* future
-* collaboration
-* software delivery methodologies
-* devops
+Before coaching, I spent two decades as a software delivery consultant, DevOps transformation lead, and CTO — most of it helping engineering organizations navigate the previous round of tooling transitions (cloud, microservices, CI/CD, observability). The patterns repeat. The leadership debt that surfaced with cloud migration is the same debt now surfacing with AI; it just rebrands every five to seven years.
 
-If you like something you see here - drop me a line at ant.weiss@gmail.com.
+I'm also an entrepreneur, public speaker, instructor, and musician — in no particular order, and in parallel to being a male human being blessed with the best wife and kids in the world. The non-coaching identities show up in how I think about the work, but they're not the offer.
 
-Or find me on twitter: [antweiss] (http://twitter.com/antweiss)
+## What I write about
 
-And this is me on [about.me] (https://about.me/antweiss)
+The bulk of my recent writing lives on [LinkedIn](https://linkedin.com/in/antonweiss) and in the [/insights](/insights/) section of this site. Topics include:
 
-<img src="http://o.aolcdn.com/dims-global/dims/ABOUTME/5/435/290/100/http://d3mod6n032mdiz.cloudfront.net/thumb2/a/n/t/antweiss/antweiss-840x560.jpg" class="profile">
+- The silent compliance problem in AI rollouts
+- Why engineering leadership debt is the actual bottleneck most rollouts hit
+- The manager's role in AI-era teams (and what AI is automating about the role)
+- Practical frameworks engineering leaders can run on their teams in 30 minutes or less
 
-<br />
+The [/blog](/blog/) section holds older essays from 2016–2017 on DevOps, creativity, and software delivery — they're archived, not retired.
+
+## Working together
+
+If you're an engineering manager, director, or VP navigating an AI rollout and you can't tell whether your team is aligned or just compliant, that's the conversation I'd most want to have. Start with the [/coaching](/coaching/) page for what an engagement looks like, or [grab the 12 Signals diagnostic](/signals/) and run it on your team first.
+
+You can reach me at [anton@otomato.io](mailto:anton@otomato.io) or on [LinkedIn](https://linkedin.com/in/antonweiss).

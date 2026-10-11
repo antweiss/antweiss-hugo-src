@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  <div class="container">
+    <span class="brandmark">{{ .Site.Title }}</span>
+    <span class="social">
+      {{ with .Site.Params.linkedIn }}<a href="{{ . }}" aria-label="LinkedIn"><i class="ti ti-brand-linkedin"></i></a>{{ end }}
+      {{ with .Site.Params.twitter }}<a href="{{ . }}" aria-label="X"><i class="ti ti-brand-x"></i></a>{{ end }}
+      {{ with .Site.Params.youtube }}<a href="{{ . }}" aria-label="YouTube"><i class="ti ti-brand-youtube"></i></a>{{ end }}
+      {{ with .Site.Params.gitHub }}<a href="{{ . }}" aria-label="GitHub"><i class="ti ti-brand-github"></i></a>{{ end }}
+      {{ with .Site.Params.email }}<a href="mailto:{{ . }}" aria-label="Email"><i class="ti ti-mail"></i></a>{{ end }}
+    </span>
+  </div>
+</footer>

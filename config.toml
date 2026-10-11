@@ -27,7 +27,7 @@ twitter = "//twitter.com/antweiss"
 youtube = "https://youtube.com/playlist?list=PLeaT8PJHUL-50Hc1R0b_O1qMXAVxXxZz9"
 logofile = "https://avatars2.githubusercontent.com/u/3274734?s=40&v=4"
 buttondown = "antweiss"
-bookurl = "/coaching/"
+bookurl = "https://cal.com/ant-weiss-lghhhu/30min"
 
 [[menu.main]]
   name = "Coaching"
@@ -44,10 +44,11 @@ bookurl = "/coaching/"
   url = "/signals/"
   weight = 3
 
-[[menu.main]]
-  name = "Insights"
-  url = "/insights/"
-  weight = 4
+# TODO: restore Insights menu entry when the section is brought back
+# [[menu.main]]
+#   name = "Insights"
+#   url = "/insights/"
+#   weight = 4
 
 [[menu.main]]
   name = "Blog"

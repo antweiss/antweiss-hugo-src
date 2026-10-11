@@ -1,0 +1,12 @@
+<section class="news">
+  <div class="container">
+    <div>
+      <h2>The stuff nobody tells engineering managers.</h2>
+      <p>Short, sharp, every Tue / Wed / Thu. No fluff, no growth-hacking.</p>
+    </div>
+    <form action="https://buttondown.email/api/emails/embed-subscribe/{{ .Site.Params.buttondown | default "antweiss" }}" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/{{ .Site.Params.buttondown | default "antweiss" }}','popupwindow')">
+      <input type="email" name="email" placeholder="you@company.com" aria-label="Email address" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</section>

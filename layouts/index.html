@@ -1,0 +1,40 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <div>
+      <div class="eyebrow">{{ .Params.hero_eyebrow | default "Coaching for engineering leaders" }}</div>
+      <h1>{{ .Params.hero_title | default "You don't have to burn out to prove you can lead." }}</h1>
+      <p>{{ .Params.hero_sub | default "I coach engineering managers and directors through the AI transition - the lonely part nobody warns you about, where the tooling changes overnight and you're still the one expected to have the answers." }}</p>
+      <div class="cta-row">
+        <a class="btn-primary" href="{{ "/signals/" | relURL }}">Run the 12-signal diagnostic</a>
+        <a class="btn-ghost" href="{{ .Site.Params.bookurl | default "/coaching/" | relURL }}">Book a 30-min call</a>
+      </div>
+    </div>
+    <div class="portrait">
+      {{ with .Params.hero_image }}<img src="{{ . | relURL }}" alt="Ant Weiss">{{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <p>AI didn't break your engineering org. It exposed the <span class="hl">leadership debt</span> you were already carrying.</p>
+  </div>
+</section>
+
+<section class="about">
+  <div class="container">
+    <div class="sq">{{ with .Params.about_image }}<img src="{{ . | relURL }}" alt="Ant Weiss">{{ end }}</div>
+    <div>
+      <div class="eyebrow pink">The person, not the pitch</div>
+      <h2>I'm Ant. I've been the lonely one at the top.</h2>
+      <p>Twenty years as a developer, DevOps consultant, and CTO taught me the hardest problems were never technical. They were the ones nobody would say out loud - to me, or to themselves.</p>
+      <p>I also <span class="hl">still play in a band</span>. Turns out leading a team through chaos and keeping time through a key change have more in common than you'd think.</p>
+    </div>
+  </div>
+</section>
+
+{{/* TODO: restore the Recent insights section when /insights/ is brought back */}}
+
+{{ partial "newsletter.html" . }}
+{{ end }}

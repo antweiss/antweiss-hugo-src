@@ -1,0 +1,9 @@
+# Hugo build output (lives in the antweiss.github.io submodule once added)
+/public/
+/resources/
+.hugo_build.lock
+
+# macOS / tooling cruft
+.DS_Store
+.gstack/
+.claude/

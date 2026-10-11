@@ -6,15 +6,15 @@ title = "12 Signals Your Team Is Performing AI Adoption, Not Aligning To It"
 
 # 12 Signals Your Team Is Performing AI Adoption, Not Aligning To It
 
-**A 25-minute diagnostic for engineering leaders who can't tell whether their team is bought in — or just quiet.**
+**A 25-minute diagnostic for engineering leaders who can't tell whether their team is bought in - or just quiet.**
 
-By 2026, most engineering organizations have crossed some adoption threshold with AI coding tools. The dashboards are green. The visible resistance that defined 2023–2024 has largely faded. Most leadership teams declare victory and stop paying attention.
+By 2026, most engineering organizations have crossed some adoption threshold with AI coding tools. The dashboards are green. The visible resistance that defined 2023-2024 has largely faded. Most leadership teams declare victory and stop paying attention.
 
 This is exactly the moment the dangerous problems start.
 
 The engineers who would have resisted hardest are now silent. The teams that ship faster on paper are quietly accumulating technical debt of a new and uncatalogued kind. The senior engineers whose judgment used to hold the system together are starting to update their LinkedIn profiles. The metrics will keep looking fine through the exit.
 
-This diagnostic gives you **twelve specific, behavioral signals** to look for in your team's day-to-day work — across 1:1s, code reviews, retros, Slack channels, and your own calendar. Each is scored 0–3. The total score tells you whether your team is actually aligning with the AI shift, or just performing alignment well enough to be left alone.
+This diagnostic gives you **twelve specific, behavioral signals** to look for in your team's day-to-day work - across 1:1s, code reviews, retros, Slack channels, and your own calendar. Each is scored 0-3. The total score tells you whether your team is actually aligning with the AI shift, or just performing alignment well enough to be left alone.
 
 ## What's in the PDF
 

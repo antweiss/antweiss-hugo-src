@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="container">
-    <a href="{{ "/" | relURL }}" class="brand">{{ .Site.Title }} <span class="dot"></span></a>
+    <a href="{{ "/" | relURL }}" class="brand"><img src="{{ "/img/logo.svg" | relURL }}" alt="{{ .Site.Title }}" class="site-logo"></a>
     <nav class="nav">
       {{ range .Site.Menus.main }}
         {{ $active := eq $.RelPermalink (.URL | relURL) }}

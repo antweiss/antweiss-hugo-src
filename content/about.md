@@ -2,6 +2,8 @@
 date = "2026-05-17T18:00:00+03:00"
 draft = false
 title = "About"
+layout = "about"
+portrait = "img/ant-green-pink.png"
 +++
 
 # About Ant Weiss

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="page">
+  <div class="wrap">
+    <div class="prose">
+      {{ with .Params.portrait }}
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="portrait-float">
+      {{ end }}
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -25,19 +25,11 @@ This diagnostic gives you **twelve specific, behavioral signals** to look for in
 
 ## Get the diagnostic
 
-<!-- TODO: Replace with Buttondown embed form once newsletter is provisioned.
-     Form should capture email + optional name, on submit:
-       1. Add subscriber to Buttondown
-       2. Trigger automated welcome email with PDF attached
-       3. Begin 5-email nurture sequence over 14 days -->
+<!-- TODO: Restore the newsletter signup / Buttondown embed form once the
+     newsletter is provisioned. Form should capture email, add to Buttondown,
+     deliver the PDF, and start a short follow-up sequence. -->
 
-<form action="https://buttondown.email/api/emails/embed-subscribe/antweiss" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/antweiss', 'popupwindow')" class="embeddable-buttondown-form">
-  <label for="bd-email">Email</label>
-  <input type="email" name="email" id="bd-email" placeholder="you@company.com" required>
-  <input type="submit" value="Send me the diagnostic">
-</form>
-
-By entering your email, you'll get the PDF delivered immediately, plus a short follow-up sequence with two case studies from coaching engagements and a closing note. Unsubscribe in one click; I don't share emails.
+Email [anton@otomato.io](mailto:anton@otomato.io?subject=12%20Signals%20diagnostic) and I'll send you the PDF.
 
 ---
 
